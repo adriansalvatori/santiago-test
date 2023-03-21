@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.movida.company
         username: development@movida.company
-        password: Ab23cd57e*.
+        password: Ab23cd57e*._
