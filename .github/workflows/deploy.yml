@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: ftp.movida.company
-        username: development@movida.company
+        username: develop@movida.company
         password: Ab23cd57e*._
